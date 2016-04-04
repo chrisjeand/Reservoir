@@ -12,7 +12,7 @@ import org.junit.Before;
 
 /**
  *
- * @author fcd
+ * @author ChrisJDCorp
  */
 public class RecipientTest {
     
